@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/hello-page", {data:[{}],fetch:{},mutations:void 0});
