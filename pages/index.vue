@@ -11,6 +11,11 @@ import CompOne from '@/components/NuxtLogo.vue'
 export default {
   components: {
     CompOne
-  } 
+  }, 
+  head: function() {
+    return {
+      title: 'Main page' 
+    }
+  }
 }
 </script>
